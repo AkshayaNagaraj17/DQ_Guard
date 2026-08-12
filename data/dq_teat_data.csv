@@ -1,0 +1,9 @@
+customer_id,name,email,phone,date_of_birth,city,created_date
+1001,Arun,arun@gmail.com,9876543210,1998-04-12,Chennai,2026-08-01
+1002,Priya,priya@gmail.com,9876543211,1997-07-20,Coimbatore,2026-08-02
+1002,Priya,priya@gmail.com,9876543211,1997-07-20,Coimbatore,2026-08-02
+1003,Ravi,ravi@gmail,9876543212,1995-10-15,Madurai,2026-08-03
+1004,Kumar,,9876543213,1996-05-25,Chennai,2026-08-04
+1005,Meena,meena@gmail.com,9876543214,invalid-date,Salem,2026-08-05
+,Divya,divya@gmail.com,9876543215,1998-11-22,Chennai,2026-08-06
+1007,Suresh,suresh@gmail.com,9876543216,1994-03-10,Coimbatore,2026-08-07
